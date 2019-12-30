@@ -1,0 +1,65 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Search Honolulu Port",
+        "description": "",
+        "id": "guest-explores-ports-of-departure;search-honolulu-port",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "line": 4,
+            "name": "a Guest",
+            "keyword": "Given "
+          },
+          {
+            "line": 5,
+            "name": "I am on Homepage",
+            "keyword": "And "
+          },
+          {
+            "line": 6,
+            "name": "I navigated to Ports page",
+            "keyword": "Given "
+          },
+          {
+            "line": 7,
+            "name": "I search for Honolulu port",
+            "keyword": "When "
+          },
+          {
+            "line": 8,
+            "name": "Map zoomed to show selected port",
+            "keyword": "Then "
+          },
+          {
+            "line": 9,
+            "name": "Port is on the middle of the map",
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 92210500,
+              "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:48)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:20)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:27)\r\n\tat Scenario_ichi_bdd.feature.Step_definition.Port_displayed_as_Port_Of_Departure(Step_definition.java:99)\r\n\tat ✽.And Port displayed as Port Of Departure(scenario_One.feature:10)\r\n",
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "Port displayed as Port Of Departure",
+            "match": {
+              "location": "Step_definition.Port_displayed_as_Port_Of_Departure()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Guest explores Ports of Departure",
+    "description": "",
+    "id": "guest-explores-ports-of-departure",
+    "keyword": "Feature",
+    "uri": "scenario_One.feature"
+  }
+]

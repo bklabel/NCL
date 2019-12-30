@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/Selenium/selenium-server-standalone-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/gherkin-2.11.5.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumSetUp/BDD Jars/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
