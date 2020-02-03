@@ -95,3 +95,6 @@ public class SpiritTestCases {
 	}
 
 }
+
+// To save updates to www.github.com:
+// Right click on Project.  Teams. Commit.
