@@ -1,0 +1,20 @@
+1) open www.spirit.com
+2)Enter from 
+3) Enter to
+4) ENter dates, Adult, 
+5)Click search Flights
+
+CAse 2
+1) open spirit.com
+2) click on Vacation.  Verify window title.  Check for an object.
+
+Case 3
+1) Open Spirit URL
+2) Click on Car.
+3) A new window should open.  Check for an object. 
+4) Close new window and go back to parent window.
+
+Case 4
+1) OPen Spirit URL
+2) Scroll page down to see deals
+2) Select Deals 3 and 4 without knowing cities.
